@@ -1,6 +1,6 @@
 void main() {
   // 1. Declare variables of the four core types
-  String athleteName = 'Jordan Riley';
+  String athleteName = 'Kiel Rabino';
   int totalSecondsActive = 4550; 
   double caloriesPerMinute = 8.4;
   bool isHydrated = true;
