@@ -1,0 +1,6 @@
+--- Daily Workout Summary ---
+Athlete: Kiel Rabino
+Workout Duration: 75 minutes and 50 seconds
+Total Calories Burned: 630 kcal
+Properly Hydrated: true
+Daily goal of 500+ kcal met? true
